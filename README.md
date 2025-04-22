@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beyzatasatan&label=Profile%20views&color=0e75b6&style=flat" alt="beyzatasatan" /> </p>
 
-- 🔭 Şu anda üzerinde çalışıyorum [MS Hastaları Verilerinin İncelenmesi](https://github.com/Beyzatasatan/Deep-Learning)
+- 🔭 Şu anda üzerinde çalışıyorum [MS Hastaları Verilerinin İncelenmesi](https://github.com/Beyzatasatan/Deep-Learning) üzerinde çalışıyorum
 
 - 🔭 Şu anda [Bulanık Mantık ile Verilerin Düzenlenmesi](https://github.com/Beyzatasatan/Bulan-k-Mant-k) üzerinde çalışıyorum
 
-- 🔭 Şu anda [Makinesi (Makine) üzerinde çalışıyorum Öğrenme)](https://github.com/Beyzatasatan/makineogrenmesi)
+- 🔭 Şu anda [Makinesi (Makine) üzerinde çalışıyorum Öğrenme)](https://github.com/Beyzatasatan/makineogrenmesi) üzerinde çalışıyorum
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
